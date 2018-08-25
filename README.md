@@ -1,6 +1,6 @@
 # gym-futures-exchange
 
-## Intall
+## Install
 
 ```
 pip install gym-futures-exchange
